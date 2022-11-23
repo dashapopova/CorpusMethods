@@ -56,7 +56,7 @@
   </tr>
     <tr>
     <td>23.11</td>
-    <td>Базовые статистические методы</td>
+    <td><a href="https://github.com/dashapopova/CorpusMethods/tree/main/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B">Базовые статистические методы</a></td>
     <td></td>  
     <td>дз1</td>
     <td>30.11</td>
