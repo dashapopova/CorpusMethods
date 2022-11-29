@@ -67,7 +67,7 @@
     <td>30.11.</td>
     <td><a href="https://github.com/dashapopova/CorpusMethods/tree/main/Regression">Регрессионные методы</a></td>
     <td></td>
-    <td>дз2</td>
+    <td><a href="https://github.com/dashapopova/CorpusMethods/blob/main/HWs/CM_hw2_2022.pdf">дз2</a></td>
     <td>07.12</td>
     <td>
       <a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 6
