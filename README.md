@@ -65,7 +65,7 @@
   </tr>
   <tr>
     <td>30.11.</td>
-    <td>Регрессионные методы</td>
+    <td><a href="https://github.com/dashapopova/CorpusMethods/tree/main/Regression">Регрессионные методы</a></td>
     <td></td>
     <td>дз2</td>
     <td>07.12</td>
