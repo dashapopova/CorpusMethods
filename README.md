@@ -75,7 +75,7 @@
   </tr>
     <tr>
     <td>07.12</td>
-    <td>Кластеризация и классификация</td>
+    <td><a href="https://github.com/dashapopova/CorpusMethods/tree/main/Clustering">Кластеризация и классификация</a></td>
     <td></td>  
     <td></td>
     <td></td>
