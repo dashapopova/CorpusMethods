@@ -94,7 +94,9 @@
   </tr>
     <tr>
     <td>17.12</td>
-    <td>Пакеты в R</td>
+    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/25.09/functions.Rmd">Функции</a><br>
+    <a href="https://github.com/dashapopova/Intro-to-R/tree/main/11.09">R Markdown, tidyverse, ggplot2</a>
+      </td>
     <td></td>
     <td></td>  
     <td></td>
