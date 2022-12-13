@@ -95,8 +95,8 @@
     <tr>
     <td>17.12</td>
     <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/25.09/functions.Rmd">Функции</a><br>
-    <a href="https://github.com/dashapopova/Intro-to-R/tree/main/02.10">продвинутый tidyverse, описательная статистика</a><br>
-      <a href="https://github.com/dashapopova/Intro-to-R/blob/main/09.10/geodata.Rmd">геоданные</a>
+    <a href="https://github.com/dashapopova/Intro-to-R/tree/main/02.10">Продвинутый tidyverse, Описательная статистика</a><br>
+      <a href="https://github.com/dashapopova/Intro-to-R/blob/main/09.10/geodata.Rmd">Геоданные</a>
       </td>
     <td></td>
     <td></td>  
