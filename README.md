@@ -84,7 +84,8 @@
   </tr>
   <tr>
     <td>14.12.</td>
-    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/04.09/Markdown.md">Markdown</a></td>
+    <td><a href="https://github.com/dashapopova/Intro-to-R/blob/main/04.09/Markdown.md">Markdown</a><br>
+    <a href="https://github.com/dashapopova/Intro-to-R/tree/main/11.09">R Markdown, tidyverse, ggplot2</a></td>
     <td>тест2</td>
     <td></td>
     <td></td>
