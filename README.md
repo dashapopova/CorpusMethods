@@ -44,7 +44,7 @@
     <td><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwia9s6v_unzAhVGxosKHRCBDC4QFnoECAQQAQ&url=https%3A%2F%2Fwww.horace.org%2Fblog%2Fwp-content%2Fuploads%2F2012%2F05%2FHow-to-Lie-With-Statistics-1954-Huff.pdf&usg=AOvVaw1Ce4jG0wKVlSCz_AjOU8c2">"How to Lie with Statistics"</a> </td>
   </tr>
   <tr>
-    <td>17.11. (402)</td>
+    <td>17.11. (301б)</td>
     <td><a href="https://github.com/dashapopova/CorpusMethods/tree/main/%D0%A2%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%2C%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B8">Типы данных, базовые графики</a></td>
     <td></td>
     <td></td>
@@ -54,7 +54,7 @@
     </td>
   </tr>
     <tr>
-    <td>24.11 (402)</td>
+    <td>24.11 (online)</td>
     <td><a href="https://github.com/dashapopova/CorpusMethods/tree/main/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B">Базовые статистические методы</a></td>
     <td></td>  
     <td></td>
@@ -63,7 +63,7 @@
       </td>
   </tr>
   <tr>
-    <td>01.12. (402)</td>
+    <td>01.12. (???)</td>
     <td><a href="https://github.com/dashapopova/CorpusMethods/tree/main/Regression">Регрессионные методы</a></td>
     <td></td>
     <td>задание</td>
@@ -73,7 +73,7 @@
     </td>
   </tr>
     <tr>
-    <td>08.12 (402)</td>
+    <td>08.12 (???)</td>
     <td><a href="https://github.com/dashapopova/CorpusMethods/tree/main/Clustering">Кластеризация и классификация</a></td>
     <td></td>  
     <td></td>
@@ -82,7 +82,7 @@
       </td>
   </tr>
   <tr>
-    <td>15.12. (402)</td>
+    <td>15.12. (online)</td>
     <td>Практика</td>
     <td>тест</td>
     <td></td>
