@@ -63,7 +63,7 @@
       </td>
   </tr>
   <tr>
-    <td>01.12. (???)</td>
+    <td>01.12. (301б)</td>
     <td><a href="https://github.com/dashapopova/CorpusMethods/tree/main/Regression">Регрессионные методы</a></td>
     <td></td>
     <td>задание</td>
@@ -73,7 +73,7 @@
     </td>
   </tr>
     <tr>
-    <td>08.12 (???)</td>
+    <td>08.12 (301б)</td>
     <td><a href="https://github.com/dashapopova/CorpusMethods/tree/main/Clustering">Кластеризация и классификация</a></td>
     <td></td>  
     <td></td>
