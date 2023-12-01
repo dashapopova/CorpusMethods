@@ -66,7 +66,7 @@
     <td>01.12. (301б)</td>
     <td><a href="https://github.com/dashapopova/CorpusMethods/tree/main/Regression">Регрессионные методы</a></td>
     <td></td>
-    <td>задание</td>
+    <td><a href="https://github.com/dashapopova/CorpusMethods/blob/main/CM_assignment_2023.pdf">задание</a></td>
     <td>на занятии -- максимум 10 баллов; до 15.12 -- максимум 7 баллов</td>
     <td>
       <a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 6
