@@ -73,7 +73,7 @@
     </td>
   </tr>
     <tr>
-    <td>08.12 (301б)</td>
+    <td>08.12 (online)</td>
     <td><a href="https://github.com/dashapopova/CorpusMethods/tree/main/Clustering">Кластеризация и классификация</a></td>
     <td></td>  
     <td></td>
