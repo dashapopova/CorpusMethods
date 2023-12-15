@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td>15.12. (online)</td>
-    <td>Практика</td>
+    <td><a href="https://github.com/dashapopova/CorpusMethods/tree/main/practice">Практика</a></td>
     <td>тест</td>
     <td></td>
     <td></td>
