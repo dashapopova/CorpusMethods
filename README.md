@@ -4,7 +4,7 @@
 
 ### Часы
 
-Пт, 18.10 -- 21.00
+Пт, Ср 18.10 -- 21.00
 
 ### Преподаватель
 * Даша Попова ([почта](mailto:daschapopowa@gmail.com))
@@ -73,7 +73,7 @@
     </td>
   </tr>
     <tr>
-    <td>06.12 (402)</td>
+    <td>04.12 (401)</td>
     <td><a href="https://github.com/dashapopova/CorpusMethods/tree/main/Clustering">Кластеризация и классификация</a></td>
     <td></td>  
     <td></td>
