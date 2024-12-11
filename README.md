@@ -82,7 +82,7 @@
       </td>
   </tr>
   <tr>
-    <td>11.12. (401)</td>
+    <td>11.12. (онлайн)</td>
     <td><a href="https://github.com/dashapopova/CorpusMethods/tree/main/practice">Практика</a></td>
     <td>тест</td>
     <td></td>
@@ -91,7 +91,7 @@
     </td>
   </tr>
     <tr>
-    <td>13.12 (402)</td>
+    <td>13.12 (онлайн)</td>
     <td>Практика
       </td>
     <td></td>
