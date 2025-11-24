@@ -57,7 +57,7 @@
     <td>24.11.</td>
     <td><a href="https://github.com/dashapopova/CorpusMethods/tree/main/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B">Базовые статистические методы</a></td>
     <td></td>  
-    <td>домашнее задание</td>
+    <td><a href="https://github.com/dashapopova/CorpusMethods/blob/main/CM_hw_2025.pdf">домашнее задание</a></td>
     <td>до 08.12</td>
     <td><a href="http://www.sfs.uni-tuebingen.de/~hbaayen/publications/baayenCUPstats.pdf">Baayen 2008</a> <br>Глава 4 
       </td>
